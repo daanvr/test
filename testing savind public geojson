@@ -19,22 +19,6 @@
           35.48515230440542
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "sdhd": "sdfh"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.435546875,
-          29.76437737516313
-        ]
-      }
     }
   ]
 }
