@@ -7,8 +7,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "pinFotoUrl": "https://i.pinimg.com/564x/a1/3e/aa/a13eaa4f655e7f7ea5cfcd0769c62833.jpg",
-        "pinUrl": "https://nl.pinterest.com/pin/394979829819317613/",
+        "fotoUrl": "https://i.pinimg.com/564x/a1/3e/aa/a13eaa4f655e7f7ea5cfcd0769c62833.jpg",
+        "linkUrl": "https://nl.pinterest.com/pin/394979829819317613/",
         "title": "Timgad, Algeria",
         "text": "Timgad, an ancient Roman city in North Africa, located on the territory of modern Algeria"
       },
@@ -17,6 +17,25 @@
         "coordinates": [
           6.468822956085205,
           35.48515230440542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ruins_of_Pompeii_with_the_Vesuvius.jpg/320px-Ruins_of_Pompeii_with_the_Vesuvius.jpg",
+        "linkUrl": "https://en.wikipedia.org/wiki/Pompeii",
+        "title": "Pompeii, Italy",
+        "text": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.488949775695799,
+          40.75015051263462
         ]
       }
     }
