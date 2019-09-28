@@ -29,13 +29,29 @@
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ruins_of_Pompeii_with_the_Vesuvius.jpg/320px-Ruins_of_Pompeii_with_the_Vesuvius.jpg",
         "linkUrl": "https://en.wikipedia.org/wiki/Pompeii",
         "title": "Pompeii, Italy",
-        "text": ""
+        "text": "Pompeii (/pɒmˈpeɪ(i)/, Latin: [pɔmˈpeːjjiː]) was an ancient Roman city located in the modern comune of Pompei near Naples in the Campania region of Italy. Pompeii, along with Herculaneum and many villas in the surrounding area (e.g. at Boscoreale, Stabiae), was buried under 4 to 6 m (13 to 20 ft) of volcanic ash and pumice in the eruption of Mount Vesuvius in AD 79."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           14.488949775695799,
           40.75015051263462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Rani_Ki_Vav%2C_Above_View.JPG",
+        "linkUrl": "https://en.wikipedia.org/wiki/Rani_ki_vav",
+        "title": "Rani ki vav",
+        "text": "Rani ki Vav or Ranki vav (lit. Queen’s stepwell) is a stepwell situated in the town of Patan in Gujarat state of India. It is located on the banks of Saraswati river. Its construction is attributed to Udayamati, the queen of 11th-century Gurjar king of Solanki Dynasty Bhima I. Silted over, it was rediscovered in 1940s and restored in 1980s by the Archaeological Survey of India. It has been listed as one of UNESCO's World Heritage Sites since 2014.  The finest and one of the largest example of its kind and designed as an inverted temple highlighting the sanctity of water, the stepwell is divided into seven levels of stairs with sculptural panels; more than 500 principle sculptures and over a thousand minor ones combine religious, mythological and secular imagery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.10171,
+          23.858909
         ]
       }
     }
