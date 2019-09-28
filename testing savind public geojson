@@ -3,23 +3,20 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "pinFoto": "https://i.pinimg.com/564x/a1/3e/aa/a13eaa4f655e7f7ea5cfcd0769c62833.jpg",
+        "pinUrl": "https://nl.pinterest.com/pin/394979829819317613/",
+        "title": "Timgad, Algeria",
+        "text": "Timgad, an ancient Roman city in North Africa, located on the territory of modern Algeria"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.984375,
-          42.5530802889558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.046875,
-          32.84267363195431
+          6.468822956085205,
+          35.48515230440542
         ]
       }
     }
