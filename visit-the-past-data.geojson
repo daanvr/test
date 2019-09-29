@@ -8,9 +8,9 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "fotoUrl": "https://i.pinimg.com/564x/a1/3e/aa/a13eaa4f655e7f7ea5cfcd0769c62833.jpg",
-        "linkUrl": "https://nl.pinterest.com/pin/394979829819317613/",
         "title": "Timgad, Algeria",
-        "text": "Timgad, an ancient Roman city in North Africa, located on the territory of modern Algeria"
+        "text": "Timgad, an ancient Roman city in North Africa, located on the territory of modern Algeria",
+        "wikiLink": ""
       },
       "geometry": {
         "type": "Point",
@@ -27,9 +27,9 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ruins_of_Pompeii_with_the_Vesuvius.jpg/320px-Ruins_of_Pompeii_with_the_Vesuvius.jpg",
-        "linkUrl": "https://en.wikipedia.org/wiki/Pompeii",
         "title": "Pompeii, Italy",
-        "text": "Pompeii (/pɒmˈpeɪ(i)/, Latin: [pɔmˈpeːjjiː]) was an ancient Roman city located in the modern comune of Pompei near Naples in the Campania region of Italy. Pompeii, along with Herculaneum and many villas in the surrounding area (e.g. at Boscoreale, Stabiae), was buried under 4 to 6 m (13 to 20 ft) of volcanic ash and pumice in the eruption of Mount Vesuvius in AD 79."
+        "text": "Pompeii (/pɒmˈpeɪ(i)/, Latin: [pɔmˈpeːjjiː]) was an ancient Roman city located in the modern comune of Pompei near Naples in the Campania region of Italy. Pompeii, along with Herculaneum and many villas in the surrounding area (e.g. at Boscoreale, Stabiae), was buried under 4 to 6 m (13 to 20 ft) of volcanic ash and pumice in the eruption of Mount Vesuvius in AD 79.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Pompeii"
       },
       "geometry": {
         "type": "Point",
@@ -43,9 +43,9 @@
       "type": "Feature",
       "properties": {
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Rani_Ki_Vav%2C_Above_View.JPG",
-        "linkUrl": "https://en.wikipedia.org/wiki/Rani_ki_vav",
         "title": "Rani ki vav",
-        "text": "Rani ki Vav or Ranki vav (lit. Queen’s stepwell) is a stepwell situated in the town of Patan in Gujarat state of India. It is located on the banks of Saraswati river. Its construction is attributed to Udayamati, the queen of 11th-century Gurjar king of Solanki Dynasty Bhima I. Silted over, it was rediscovered in 1940s and restored in 1980s by the Archaeological Survey of India. It has been listed as one of UNESCO's World Heritage Sites since 2014.  The finest and one of the largest example of its kind and designed as an inverted temple highlighting the sanctity of water, the stepwell is divided into seven levels of stairs with sculptural panels; more than 500 principle sculptures and over a thousand minor ones combine religious, mythological and secular imagery."
+        "text": "Rani ki Vav or Ranki vav (lit. Queen’s stepwell) is a stepwell situated in the town of Patan in Gujarat state of India. It is located on the banks of Saraswati river. Its construction is attributed to Udayamati, the queen of 11th-century Gurjar king of Solanki Dynasty Bhima I. Silted over, it was rediscovered in 1940s and restored in 1980s by the Archaeological Survey of India. It has been listed as one of UNESCO's World Heritage Sites since 2014.  The finest and one of the largest example of its kind and designed as an inverted temple highlighting the sanctity of water, the stepwell is divided into seven levels of stairs with sculptural panels; more than 500 principle sculptures and over a thousand minor ones combine religious, mythological and secular imagery.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Rani_ki_vav"
       },
       "geometry": {
         "type": "Point",
@@ -59,9 +59,9 @@
       "type": "Feature",
       "properties": {
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg/492px-80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg",
-        "linkUrl": "https://en.wikipedia.org/wiki/Machu_Picchu",
         "title": "Machu Picchu, Peru",
-        "text": "Machu Picchu (English: /ˈmɑːtʃuː ˈpiːktʃuː/[1][2][3][4][5][6] or /ˈpiːtʃuː/,[3][7][8] Spanish: [ˈmatʃu ˈpi(k)tʃu];[9] Quechua: Machu Pikchu[10] [ˈmatʃʊ ˈpɪktʃʊ]) is a 15th-century Inca citadel, located in the Eastern Cordillera of southern Peru, on a 2,430-metre (7,970 ft) mountain ridge.[11][12] It is located in the Cusco Region, Urubamba Province, Machupicchu District,[13] above the Sacred Valley, which is 80 kilometres (50 mi) northwest of Cuzco and through which the Urubamba River flows, cutting through the Cordillera and creating a canyon with a tropical mountain climate."
+        "text": "Machu Picchu (English: /ˈmɑːtʃuː ˈpiːktʃuː/[1][2][3][4][5][6] or /ˈpiːtʃuː/,[3][7][8] Spanish: [ˈmatʃu ˈpi(k)tʃu];[9] Quechua: Machu Pikchu[10] [ˈmatʃʊ ˈpɪktʃʊ]) is a 15th-century Inca citadel, located in the Eastern Cordillera of southern Peru, on a 2,430-metre (7,970 ft) mountain ridge.[11][12] It is located in the Cusco Region, Urubamba Province, Machupicchu District,[13] above the Sacred Valley, which is 80 kilometres (50 mi) northwest of Cuzco and through which the Urubamba River flows, cutting through the Cordillera and creating a canyon with a tropical mountain climate.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Machu_Picchu"
       },
       "geometry": {
         "type": "Point",
@@ -74,10 +74,10 @@
     {
       "type": "Feature",
       "properties": {
-        "linkUrl": "https://en.wikipedia.org/wiki/Ancient_Theatre_of_Fourvière",
         "title": "Ancient Theatre of Fourvière, Lyon, France",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Theatre-et-odeon-de-la-vill.jpg/320px-Theatre-et-odeon-de-la-vill.jpg",
-        "text": "The Ancient Theatre of Fourvière (French: Théâtre antique de Lyon) is a Roman theatre in Lyon, France. It was built on the hill of Fourvière, which is located in the center of the Roman city."
+        "text": "The Ancient Theatre of Fourvière (French: Théâtre antique de Lyon) is a Roman theatre in Lyon, France. It was built on the hill of Fourvière, which is located in the center of the Roman city.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ancient_Theatre_of_Fourvière"
       },
       "geometry": {
         "type": "Point",
@@ -92,8 +92,8 @@
       "properties": {
         "title": "Great Pyramid of Giza",
         "text": "The Great Pyramid of Giza (also known as the Pyramid of Khufu or the Pyramid of Cheops) is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day El Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.",
-        "linkUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
-        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/320px-Kheops-Pyramid.jpg"
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/320px-Kheops-Pyramid.jpg",
+        "wikiLink": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
       },
       "geometry": {
         "type": "Point",
@@ -106,10 +106,10 @@
     {
       "type": "Feature",
       "properties": {
-        "linkUrl": "https://en.wikipedia.org/wiki/Angkor",
         "title": "Angkor, Cambodia",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Angkor_Wat_W-Seite.jpg/320px-Angkor_Wat_W-Seite.jpg",
-        "text": "Angkor (Khmer: អង្គរ pronounced [ʔɑŋ.ˈkɔː], lit. capital city)[1][2] was the capital city of the Khmer Empire, also known as Yasodharapura (Khmer: យសោធរបុរៈ; Sanskrit: यशोधरपुर) and flourished from approximately the 9th to 15th centuries. The city houses the magnificent Angkor Wat, one of Cambodia's popular tourist attractions."
+        "text": "Angkor (Khmer: អង្គរ pronounced [ʔɑŋ.ˈkɔː], lit. capital city)[1][2] was the capital city of the Khmer Empire, also known as Yasodharapura (Khmer: យសោធរបុរៈ; Sanskrit: यशोधरपुर) and flourished from approximately the 9th to 15th centuries. The city houses the magnificent Angkor Wat, one of Cambodia's popular tourist attractions.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Angkor"
       },
       "geometry": {
         "type": "Point",
