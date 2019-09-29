@@ -70,6 +70,38 @@
           -13.162984
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linkUrl": "https://en.wikipedia.org/wiki/Ancient_Theatre_of_Fourvière",
+        "title": "Ancient Theatre of Fourvière, Lyon, France",
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Theatre-et-odeon-de-la-vill.jpg/320px-Theatre-et-odeon-de-la-vill.jpg",
+        "text": "The Ancient Theatre of Fourvière (French: Théâtre antique de Lyon) is a Roman theatre in Lyon, France. It was built on the hill of Fourvière, which is located in the center of the Roman city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.819897413253784,
+          45.75924490160656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Great Pyramid of Giza",
+        "text": "The Great Pyramid of Giza (also known as the Pyramid of Khufu or the Pyramid of Cheops) is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day El Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.",
+        "linkUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/320px-Kheops-Pyramid.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.132400035858154,
+          29.977613374947623
+        ]
+      }
     }
   ]
 }
