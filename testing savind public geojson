@@ -54,6 +54,22 @@
           23.858909
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg/492px-80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg",
+        "linkUrl": "https://en.wikipedia.org/wiki/Machu_Picchu",
+        "title": "Machu Picchu, Peru",
+        "text": "Machu Picchu (English: /ˈmɑːtʃuː ˈpiːktʃuː/[1][2][3][4][5][6] or /ˈpiːtʃuː/,[3][7][8] Spanish: [ˈmatʃu ˈpi(k)tʃu];[9] Quechua: Machu Pikchu[10] [ˈmatʃʊ ˈpɪktʃʊ]) is a 15th-century Inca citadel, located in the Eastern Cordillera of southern Peru, on a 2,430-metre (7,970 ft) mountain ridge.[11][12] It is located in the Cusco Region, Urubamba Province, Machupicchu District,[13] above the Sacred Valley, which is 80 kilometres (50 mi) northwest of Cuzco and through which the Urubamba River flows, cutting through the Cordillera and creating a canyon with a tropical mountain climate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.545316,
+          -13.162984
+        ]
+      }
     }
   ]
 }
