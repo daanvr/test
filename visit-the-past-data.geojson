@@ -122,6 +122,23 @@
           13.441239065225624
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "El Castillo, Chichen Itza, Mexico",
+        "text": "El Castillo (Spanish pronunciation: [el kas'tiʎo], Spanish for \"the castle\"), also known as the Temple of Kukulcan (or sometimes Kukulkan), is a Mesoamerican step-pyramid that dominates the center of the Chichen Itza archaeological site in the Mexican state of Yucatán. The building is more formally designated by archaeologists as Chichen Itza Structure 5B18.",
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/320px-Chichen_Itza_3.jpg",
+        "wikiLink": "https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza",
+        "googleMapsLink": "https://goo.gl/maps/KPpfXyssKNCS9UWP7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56867,
+          20.682942
+        ]
+      }
     }
   ]
 }
