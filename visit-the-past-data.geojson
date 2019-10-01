@@ -190,6 +190,23 @@
           37.638151462014896
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "googleMapsLink": "https://goo.gl/maps/BLK5vLpak8hJ8dDC9",
+        "title": "Newgrange, Ireland",
+        "text": "Newgrange (Irish: Sí an Bhrú[1] or Brú na Bóinne)[2] is a prehistoric monument in County Meath, Ireland, located 8 kilometres (5.0 mi) west of Drogheda on the north side of the River Boyne.[3] It is an exceptionally grand passage tomb built during the Neolithic period, around 3200 BC, making it older than Stonehenge and the Egyptian pyramids.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Newgrange",
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Irelands_history.jpg/320px-Irelands_history.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.475635766983032,
+          53.694730922933125
+        ]
+      }
     }
   ]
 }
