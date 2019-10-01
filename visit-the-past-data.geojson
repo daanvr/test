@@ -173,6 +173,23 @@
           37.94138843910244
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikiLink": "https://en.wikipedia.org/wiki/Olympia,_Greece",
+        "googleMapsLink": "https://goo.gl/maps/Q8xpLiLRwpfP3NH67",
+        "title": "Olympia, Greece",
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Olimpia_FilipTemple.JPG/320px-Olimpia_FilipTemple.JPG",
+        "text": "Olympia (Greek: Ὀλυμπία; Ancient Greek: [olympía]; Modern Greek: [oli(m)ˈbia] Olymbía), is a small town in Elis on the Peloponnese peninsula in Greece, famous for the nearby archaeological site of the same name, which was a major Panhellenic religious sanctuary of ancient Greece, where the ancient Olympic Games were held. The site was primarily dedicated to Zeus and drew visitors from all over the Greek world as one of a group of such \"Panhellenic\" centres which helped to build the identity of the ancient Greeks as a nation. Despite the name, it is nowhere near Mount Olympus in northern Greece, where the Twelve Olympians, the major deities of Ancient Greek religion, were believed to live."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.629633903503418,
+          37.638151462014896
+        ]
+      }
     }
   ]
 }
