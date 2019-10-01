@@ -156,6 +156,23 @@
           27.174963
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "City of Ephesus, Turkey",
+        "text": "Ephesus (/ˈɛfəsəs/;[1] Ancient Greek: Ἔφεσος Ephesos; Turkish: Efes; may ultimately derive from Hittite Apasa) was an ancient Greek city[2][3] on the coast of Ionia, three kilometres southwest of present-day Selçuk in İzmir Province, Turkey. It was built in the 10th century BC on the site of the former Arzawan capital[4][5] by Attic and Ionian Greek colonists. During the Classical Greek era it was one of the twelve cities of the Ionian League. The city flourished after it came under the control of the Roman Republic in 129 BC.",
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Amphitheater_at_Ephesus_archaeological_site%2C_with_harbour_street_in_background%2C_2014.jpg/320px-Amphitheater_at_Ephesus_archaeological_site%2C_with_harbour_street_in_background%2C_2014.jpg",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ephesus",
+        "googleMapsLink": "https://goo.gl/maps/2tM3WJ7NMykLxuRa6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.341837882995602,
+          37.94138843910244
+        ]
+      }
     }
   ]
 }
