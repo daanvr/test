@@ -249,6 +249,23 @@
           -8.01640124618183
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%2814%29_Kasteelboerderij_-_Openluchtmuseum_Arnhem.JPG/320px-%2814%29_Kasteelboerderij_-_Openluchtmuseum_Arnhem.JPG",
+        "title": "Netherlands Open Air Museum",
+        "text": "The Netherlands Open Air Museum (Dutch: Nederlands Openluchtmuseum) is a open-air museum located in Arnhem with antique houses, farms and factories from different parts of the Netherlands. It is a national museum focusing on the culture associated with the everyday lives of ordinary people. This will be linked to key aspects of Dutch history, including the Dutch East India Company and Michiel de Ruyter, as well as the First World War, slavery and child labour. The park was established on 24 April 1912 and open to the public from July 1918, over the last century the Netherlands Open Air Museum has grown to become one of the country’s most visited museums. Annually, the museum has more than 555,000 visitors.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Netherlands_Open_Air_Museum",
+        "googleMapsLink": "https://goo.gl/maps/dwY7zjihSKVHcRxZ8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.906631946563721,
+          52.00996862975038
+        ]
+      }
     }
   ]
 }
