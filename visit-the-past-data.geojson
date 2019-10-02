@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "fotoUrl": "https://i.pinimg.com/564x/a1/3e/aa/a13eaa4f655e7f7ea5cfcd0769c62833.jpg",
         "title": "Timgad, Algeria",
         "text": "Timgad, an ancient Roman city in North Africa, located on the territory of modern Algeria",
@@ -23,9 +20,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ruins_of_Pompeii_with_the_Vesuvius.jpg/320px-Ruins_of_Pompeii_with_the_Vesuvius.jpg",
         "title": "Pompeii, Italy",
         "text": "Pompeii (/pɒmˈpeɪ(i)/, Latin: [pɔmˈpeːjjiː]) was an ancient Roman city located in the modern comune of Pompei near Naples in the Campania region of Italy. Pompeii, along with Herculaneum and many villas in the surrounding area (e.g. at Boscoreale, Stabiae), was buried under 4 to 6 m (13 to 20 ft) of volcanic ash and pumice in the eruption of Mount Vesuvius in AD 79.",
@@ -106,9 +100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "title": "Angkor, Cambodia",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Angkor_Wat_W-Seite.jpg/320px-Angkor_Wat_W-Seite.jpg",
         "text": "Angkor (Khmer: អង្គរ pronounced [ʔɑŋ.ˈkɔː], lit. capital city)[1][2] was the capital city of the Khmer Empire, also known as Yasodharapura (Khmer: យសោធរបុរៈ; Sanskrit: यशोधरपुर) and flourished from approximately the 9th to 15th centuries. The city houses the magnificent Angkor Wat, one of Cambodia's popular tourist attractions.",
@@ -205,6 +196,23 @@
         "coordinates": [
           -6.475635766983032,
           53.694730922933125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "googleMapsLink": "https://goo.gl/maps/VwwmQF8BrAwMcESR7",
+        "text": "Petra (Arabic: ٱلْبَتْرَاء‎, romanized: Al-Batrāʾ; Ancient Greek: Πέτρα, \"Stone\"), originally known to its inhabitants as Raqmu, is a historical and archaeological city in southern Jordan. Petra lies on the slope of Jabal Al-Madbah in a basin among the mountains which form the eastern flank of the Arabah valley that runs from the Dead Sea to the Gulf of Aqaba.[3] Petra is believed to have been settled as early as 9,000 BC, and it was possibly established in the 4th century BC as the capital city of the Nabataean Kingdom. The Nabataeans were nomadic Arabs who invested in Petra's proximity to the trade routes by establishing it as a major regional trading hub.",
+        "title": "Petra, Jordan",
+        "wikiLink": "https://en.wikipedia.org/wiki/Petra",
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Petra_Jordan_BW_21.JPG/302px-Petra_Jordan_BW_21.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4458212852478,
+          30.32854580398142
         ]
       }
     }
