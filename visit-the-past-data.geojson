@@ -266,6 +266,23 @@
           52.00996862975038
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ET_Gondar_asv2018-02_img07_Fasil_Ghebbi.jpg/480px-ET_Gondar_asv2018-02_img07_Fasil_Ghebbi.jpg",
+        "title": "Fasil Ghebbi, Gondar, Ethiopia",
+        "text": "The Royal Enclosure (Amharic: ፋሲል ግቢ, or Fasil Ghebbi) is the remains of a fortress-city in Gondar, Ethiopia. It was founded in the 17th century by Emperor Fasilides (Fasil) and was the home of Ethiopia's emperors. Its unique architecture shows diverse influences including Nubian styles. The site was inscribed as a UNESCO World Heritage Site in 1979. Ghebbi is an Amharic word for a compound or enclosure.[1]",
+        "wikiLink": "https://en.wikipedia.org/wiki/Fasil_Ghebbi",
+        "googleMapsLink": "https://goo.gl/maps/tRZ8n7VdDK2PSszbA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.46968746185303,
+          12.60821800927491
+        ]
+      }
     }
   ]
 }
