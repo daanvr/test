@@ -7,7 +7,7 @@
         "fotoUrl": "https://i.pinimg.com/564x/a1/3e/aa/a13eaa4f655e7f7ea5cfcd0769c62833.jpg",
         "title": "Timgad, Algeria",
         "text": "Timgad, an ancient Roman city in North Africa, located on the territory of modern Algeria",
-        "wikiLink": ""
+        "wikiTitle": "Timgad"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +23,7 @@
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ruins_of_Pompeii_with_the_Vesuvius.jpg/320px-Ruins_of_Pompeii_with_the_Vesuvius.jpg",
         "title": "Pompeii, Italy",
         "text": "Pompeii (/pɒmˈpeɪ(i)/, Latin: [pɔmˈpeːjjiː]) was an ancient Roman city located in the modern comune of Pompei near Naples in the Campania region of Italy. Pompeii, along with Herculaneum and many villas in the surrounding area (e.g. at Boscoreale, Stabiae), was buried under 4 to 6 m (13 to 20 ft) of volcanic ash and pumice in the eruption of Mount Vesuvius in AD 79.",
-        "wikiLink": "https://en.wikipedia.org/wiki/Pompeii"
+        "wikiTitle": "Pompeii"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Rani_Ki_Vav%2C_Above_View.JPG",
         "title": "Rani ki vav",
         "text": "Rani ki Vav or Ranki vav (lit. Queen’s stepwell) is a stepwell situated in the town of Patan in Gujarat state of India. It is located on the banks of Saraswati river. Its construction is attributed to Udayamati, the queen of 11th-century Gurjar king of Solanki Dynasty Bhima I. Silted over, it was rediscovered in 1940s and restored in 1980s by the Archaeological Survey of India. It has been listed as one of UNESCO's World Heritage Sites since 2014.  The finest and one of the largest example of its kind and designed as an inverted temple highlighting the sanctity of water, the stepwell is divided into seven levels of stairs with sculptural panels; more than 500 principle sculptures and over a thousand minor ones combine religious, mythological and secular imagery.",
-        "wikiLink": "https://en.wikipedia.org/wiki/Rani_ki_vav"
+        "wikiTitle": "Rani ki vav"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +55,7 @@
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg/492px-80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg",
         "title": "Machu Picchu, Peru",
         "text": "Machu Picchu (English: /ˈmɑːtʃuː ˈpiːktʃuː/[1][2][3][4][5][6] or /ˈpiːtʃuː/,[3][7][8] Spanish: [ˈmatʃu ˈpi(k)tʃu];[9] Quechua: Machu Pikchu[10] [ˈmatʃʊ ˈpɪktʃʊ]) is a 15th-century Inca citadel, located in the Eastern Cordillera of southern Peru, on a 2,430-metre (7,970 ft) mountain ridge.[11][12] It is located in the Cusco Region, Urubamba Province, Machupicchu District,[13] above the Sacred Valley, which is 80 kilometres (50 mi) northwest of Cuzco and through which the Urubamba River flows, cutting through the Cordillera and creating a canyon with a tropical mountain climate.",
-        "wikiLink": "https://en.wikipedia.org/wiki/Machu_Picchu"
+        "wikiTitle": "Machu Picchu"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "title": "Ancient Theatre of Fourvière, Lyon, France",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Theatre-et-odeon-de-la-vill.jpg/320px-Theatre-et-odeon-de-la-vill.jpg",
         "text": "The Ancient Theatre of Fourvière (French: Théâtre antique de Lyon) is a Roman theatre in Lyon, France. It was built on the hill of Fourvière, which is located in the center of the Roman city.",
-        "wikiLink": "https://en.wikipedia.org/wiki/Ancient_Theatre_of_Fourvière"
+        "wikiTitle": "Ancient Theatre of Fourvière"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +87,7 @@
         "title": "Great Pyramid of Giza",
         "text": "The Great Pyramid of Giza (also known as the Pyramid of Khufu or the Pyramid of Cheops) is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day El Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/320px-Kheops-Pyramid.jpg",
-        "wikiLink": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+        "wikiTitle": "Great Pyramid of Giza"
       },
       "geometry": {
         "type": "Point",
@@ -103,8 +103,8 @@
         "title": "Angkor, Cambodia",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Angkor_Wat_W-Seite.jpg/320px-Angkor_Wat_W-Seite.jpg",
         "text": "Angkor (Khmer: អង្គរ pronounced [ʔɑŋ.ˈkɔː], lit. capital city)[1][2] was the capital city of the Khmer Empire, also known as Yasodharapura (Khmer: យសោធរបុរៈ; Sanskrit: यशोधरपुर) and flourished from approximately the 9th to 15th centuries. The city houses the magnificent Angkor Wat, one of Cambodia's popular tourist attractions.",
-        "wikiLink": "https://en.wikipedia.org/wiki/Angkor",
-        "googleMapsLink": "https://goo.gl/maps/NnJW56n9HuzGjFqA6"
+        "googleMapsLink": "https://goo.gl/maps/NnJW56n9HuzGjFqA6",
+        "wikiTitle": "Angkor"
       },
       "geometry": {
         "type": "Point",
@@ -120,8 +120,8 @@
         "title": "El Castillo, Chichen Itza, Mexico",
         "text": "El Castillo (Spanish pronunciation: [el kas'tiʎo], Spanish for \"the castle\"), also known as the Temple of Kukulcan (or sometimes Kukulkan), is a Mesoamerican step-pyramid that dominates the center of the Chichen Itza archaeological site in the Mexican state of Yucatán. The building is more formally designated by archaeologists as Chichen Itza Structure 5B18.",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/320px-Chichen_Itza_3.jpg",
-        "wikiLink": "https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza",
-        "googleMapsLink": "https://goo.gl/maps/KPpfXyssKNCS9UWP7"
+        "googleMapsLink": "https://goo.gl/maps/KPpfXyssKNCS9UWP7",
+        "wikiTitle": "El_Castillo, Chichen Itza"
       },
       "geometry": {
         "type": "Point",
@@ -137,8 +137,8 @@
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/320px-Taj_Mahal_%28Edited%29.jpeg",
         "title": "Taj Mahal, India",
         "text": "The Taj Mahal (/ˌtɑːdʒ məˈhɑːl, ˌtɑːʒ-/;[4] Arabic: تاج محل‎, lit. 'Place or Position of the Crown', Hindi: ताज महल, lit. 'Crown of the Palaces' [taːdʒ ˈmɛːɦ(ə)l])[5] is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan (reigned from 1628 to 1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
-        "wikiLink": "https://en.wikipedia.org/wiki/Taj_Mahal",
-        "googleMapsLink": "https://goo.gl/maps/KbTUXNeJLUpu4XHd9"
+        "googleMapsLink": "https://goo.gl/maps/KbTUXNeJLUpu4XHd9",
+        "wikiTitle": "Taj Mahal"
       },
       "geometry": {
         "type": "Point",
@@ -154,8 +154,8 @@
         "title": "City of Ephesus, Turkey",
         "text": "Ephesus (/ˈɛfəsəs/;[1] Ancient Greek: Ἔφεσος Ephesos; Turkish: Efes; may ultimately derive from Hittite Apasa) was an ancient Greek city[2][3] on the coast of Ionia, three kilometres southwest of present-day Selçuk in İzmir Province, Turkey. It was built in the 10th century BC on the site of the former Arzawan capital[4][5] by Attic and Ionian Greek colonists. During the Classical Greek era it was one of the twelve cities of the Ionian League. The city flourished after it came under the control of the Roman Republic in 129 BC.",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Amphitheater_at_Ephesus_archaeological_site%2C_with_harbour_street_in_background%2C_2014.jpg/320px-Amphitheater_at_Ephesus_archaeological_site%2C_with_harbour_street_in_background%2C_2014.jpg",
-        "wikiLink": "https://en.wikipedia.org/wiki/Ephesus",
-        "googleMapsLink": "https://goo.gl/maps/2tM3WJ7NMykLxuRa6"
+        "googleMapsLink": "https://goo.gl/maps/2tM3WJ7NMykLxuRa6",
+        "wikiTitle": "Ephesus"
       },
       "geometry": {
         "type": "Point",
@@ -168,11 +168,11 @@
     {
       "type": "Feature",
       "properties": {
-        "wikiLink": "https://en.wikipedia.org/wiki/Olympia,_Greece",
         "googleMapsLink": "https://goo.gl/maps/Q8xpLiLRwpfP3NH67",
         "title": "Olympia, Greece",
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Olimpia_FilipTemple.JPG/320px-Olimpia_FilipTemple.JPG",
-        "text": "Olympia (Greek: Ὀλυμπία; Ancient Greek: [olympía]; Modern Greek: [oli(m)ˈbia] Olymbía), is a small town in Elis on the Peloponnese peninsula in Greece, famous for the nearby archaeological site of the same name, which was a major Panhellenic religious sanctuary of ancient Greece, where the ancient Olympic Games were held. The site was primarily dedicated to Zeus and drew visitors from all over the Greek world as one of a group of such \"Panhellenic\" centres which helped to build the identity of the ancient Greeks as a nation. Despite the name, it is nowhere near Mount Olympus in northern Greece, where the Twelve Olympians, the major deities of Ancient Greek religion, were believed to live."
+        "text": "Olympia (Greek: Ὀλυμπία; Ancient Greek: [olympía]; Modern Greek: [oli(m)ˈbia] Olymbía), is a small town in Elis on the Peloponnese peninsula in Greece, famous for the nearby archaeological site of the same name, which was a major Panhellenic religious sanctuary of ancient Greece, where the ancient Olympic Games were held. The site was primarily dedicated to Zeus and drew visitors from all over the Greek world as one of a group of such \"Panhellenic\" centres which helped to build the identity of the ancient Greeks as a nation. Despite the name, it is nowhere near Mount Olympus in northern Greece, where the Twelve Olympians, the major deities of Ancient Greek religion, were believed to live.",
+        "wikiTitle": "Olympia, Greece"
       },
       "geometry": {
         "type": "Point",
@@ -188,8 +188,8 @@
         "googleMapsLink": "https://goo.gl/maps/BLK5vLpak8hJ8dDC9",
         "title": "Newgrange, Ireland",
         "text": "Newgrange (Irish: Sí an Bhrú[1] or Brú na Bóinne)[2] is a prehistoric monument in County Meath, Ireland, located 8 kilometres (5.0 mi) west of Drogheda on the north side of the River Boyne.[3] It is an exceptionally grand passage tomb built during the Neolithic period, around 3200 BC, making it older than Stonehenge and the Egyptian pyramids.",
-        "wikiLink": "https://en.wikipedia.org/wiki/Newgrange",
-        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Irelands_history.jpg/320px-Irelands_history.jpg"
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Irelands_history.jpg/320px-Irelands_history.jpg",
+        "wikiTitle": "Newgrange"
       },
       "geometry": {
         "type": "Point",
@@ -205,8 +205,8 @@
         "googleMapsLink": "https://goo.gl/maps/VwwmQF8BrAwMcESR7",
         "text": "Petra (Arabic: ٱلْبَتْرَاء‎, romanized: Al-Batrāʾ; Ancient Greek: Πέτρα, \"Stone\"), originally known to its inhabitants as Raqmu, is a historical and archaeological city in southern Jordan. Petra lies on the slope of Jabal Al-Madbah in a basin among the mountains which form the eastern flank of the Arabah valley that runs from the Dead Sea to the Gulf of Aqaba.[3] Petra is believed to have been settled as early as 9,000 BC, and it was possibly established in the 4th century BC as the capital city of the Nabataean Kingdom. The Nabataeans were nomadic Arabs who invested in Petra's proximity to the trade routes by establishing it as a major regional trading hub.",
         "title": "Petra, Jordan",
-        "wikiLink": "https://en.wikipedia.org/wiki/Petra",
-        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Petra_Jordan_BW_21.JPG/302px-Petra_Jordan_BW_21.JPG"
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Petra_Jordan_BW_21.JPG/302px-Petra_Jordan_BW_21.JPG",
+        "wikiTitle": "Petra"
       },
       "geometry": {
         "type": "Point",
@@ -219,14 +219,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "googleMapsLink": "https://goo.gl/maps/AXpZhusZUd3yudu27",
         "text": "Stonehenge is a prehistoric monument in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of a ring of standing stones, with each standing stone around 13 feet (4.0 m) high, seven feet (2.1 m) wide and weighing around 25 tons. The stones are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age monuments in England, including several hundred burial mounds.[1]",
         "title": "Stonehenge, UK",
         "fotoUrl": "",
-        "wikiLink": "https://en.wikipedia.org/wiki/Stonehenge",
         "wikiTitle": "Stonehenge"
       },
       "geometry": {
@@ -242,9 +238,9 @@
       "properties": {
         "googleMapsLink": "https://g.page/candi-penataran?share",
         "text": "Penataran or Panataran (Indonesian: Candi Penataran) is one of the largest Hindu temple ruins complex in East Java, Indonesia.[1] It is located roughly 12 km northeast of Blitar, with the closest airport being farther away at Malang. Believed to have been constructed between the 12th century to the 15th century, the temple played a significant role in the Majapahit Kingdom, especially under King Hayam Wuruk.[1][2] He considered his favorite sanctuary.[3]:241 Penataran dates from the Kediri era.",
-        "wikiLink": "https://en.wikipedia.org/wiki/Penataran",
         "title": "Panataran, Indonesia",
-        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RA_3420014.JPG/398px-RA_3420014.JPG"
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RA_3420014.JPG/398px-RA_3420014.JPG",
+        "wikiTitle": "Penataran"
       },
       "geometry": {
         "type": "Point",
@@ -260,8 +256,8 @@
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%2814%29_Kasteelboerderij_-_Openluchtmuseum_Arnhem.JPG/320px-%2814%29_Kasteelboerderij_-_Openluchtmuseum_Arnhem.JPG",
         "title": "Netherlands Open Air Museum",
         "text": "The Netherlands Open Air Museum (Dutch: Nederlands Openluchtmuseum) is a open-air museum located in Arnhem with antique houses, farms and factories from different parts of the Netherlands. It is a national museum focusing on the culture associated with the everyday lives of ordinary people. This will be linked to key aspects of Dutch history, including the Dutch East India Company and Michiel de Ruyter, as well as the First World War, slavery and child labour. The park was established on 24 April 1912 and open to the public from July 1918, over the last century the Netherlands Open Air Museum has grown to become one of the country’s most visited museums. Annually, the museum has more than 555,000 visitors.",
-        "wikiLink": "https://en.wikipedia.org/wiki/Netherlands_Open_Air_Museum",
-        "googleMapsLink": "https://goo.gl/maps/dwY7zjihSKVHcRxZ8"
+        "googleMapsLink": "https://goo.gl/maps/dwY7zjihSKVHcRxZ8",
+        "wikiTitle": "Netherlands_Open_Air_Museum"
       },
       "geometry": {
         "type": "Point",
@@ -277,8 +273,8 @@
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ET_Gondar_asv2018-02_img07_Fasil_Ghebbi.jpg/480px-ET_Gondar_asv2018-02_img07_Fasil_Ghebbi.jpg",
         "title": "Fasil Ghebbi, Gondar, Ethiopia",
         "text": "The Royal Enclosure (Amharic: ፋሲል ግቢ, or Fasil Ghebbi) is the remains of a fortress-city in Gondar, Ethiopia. It was founded in the 17th century by Emperor Fasilides (Fasil) and was the home of Ethiopia's emperors. Its unique architecture shows diverse influences including Nubian styles. The site was inscribed as a UNESCO World Heritage Site in 1979. Ghebbi is an Amharic word for a compound or enclosure.[1]",
-        "wikiLink": "https://en.wikipedia.org/wiki/Fasil_Ghebbi",
-        "googleMapsLink": "https://goo.gl/maps/tRZ8n7VdDK2PSszbA"
+        "googleMapsLink": "https://goo.gl/maps/tRZ8n7VdDK2PSszbA",
+        "wikiTitle": "Fasil Ghebbi"
       },
       "geometry": {
         "type": "Point",
@@ -294,8 +290,8 @@
         "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jebel_Barkal_pyramids_%281%29_%2834550457701%29.jpg/320px-Jebel_Barkal_pyramids_%281%29_%2834550457701%29.jpg",
         "title": "Jebel Barkal, Sudan",
         "text": "Jebel Barkal or Gebel Barkal (Arabic: جبل بركل‎) is a very small mountain located some 400 km north of Khartoum, in Karima town in Northern State in Sudan, on a large bend of the Nile River, in the region called Nubia. The mountain is 98 m tall, has a flat top, and apparently was used as a landmark by the traders in the important route between central Africa, Arabia, and Egypt, as the point where it was easier to cross the great river. In 2003, the mountain, together with the historical city of Napata (which sits at its feet), were named World Heritage Sites by UNESCO. The Jebel Barkal area houses the Jebel Barkal Museum.",
-        "wikiLink": "https://en.wikipedia.org/wiki/Jebel_Barkal",
-        "googleMapsLink": "https://goo.gl/maps/tYamRTNJcrZRhzQG8"
+        "googleMapsLink": "https://goo.gl/maps/tYamRTNJcrZRhzQG8",
+        "wikiTitle": "Jebel Barkal "
       },
       "geometry": {
         "type": "Point",
