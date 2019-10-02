@@ -283,6 +283,23 @@
           12.60821800927491
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jebel_Barkal_pyramids_%281%29_%2834550457701%29.jpg/320px-Jebel_Barkal_pyramids_%281%29_%2834550457701%29.jpg",
+        "title": "Jebel Barkal, Sudan",
+        "text": "Jebel Barkal or Gebel Barkal (Arabic: جبل بركل‎) is a very small mountain located some 400 km north of Khartoum, in Karima town in Northern State in Sudan, on a large bend of the Nile River, in the region called Nubia. The mountain is 98 m tall, has a flat top, and apparently was used as a landmark by the traders in the important route between central Africa, Arabia, and Egypt, as the point where it was easier to cross the great river. In 2003, the mountain, together with the historical city of Napata (which sits at its feet), were named World Heritage Sites by UNESCO. The Jebel Barkal area houses the Jebel Barkal Museum.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Jebel_Barkal",
+        "googleMapsLink": "https://goo.gl/maps/tYamRTNJcrZRhzQG8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.822457313537598,
+          18.53816991016178
+        ]
+      }
     }
   ]
 }
