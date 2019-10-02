@@ -232,6 +232,23 @@
           51.178846953023914
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "googleMapsLink": "https://g.page/candi-penataran?share",
+        "text": "Penataran or Panataran (Indonesian: Candi Penataran) is one of the largest Hindu temple ruins complex in East Java, Indonesia.[1] It is located roughly 12 km northeast of Blitar, with the closest airport being farther away at Malang. Believed to have been constructed between the 12th century to the 15th century, the temple played a significant role in the Majapahit Kingdom, especially under King Hayam Wuruk.[1][2] He considered his favorite sanctuary.[3]:241 Penataran dates from the Kediri era.",
+        "wikiLink": "https://en.wikipedia.org/wiki/Penataran",
+        "title": "Panataran, Indonesia",
+        "fotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RA_3420014.JPG/398px-RA_3420014.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.20976084470749,
+          -8.01640124618183
+        ]
+      }
     }
   ]
 }
